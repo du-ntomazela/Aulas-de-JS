@@ -1,0 +1,29 @@
+.result-box {
+    display: flex;
+    
+    
+}
+
+
+.btn {
+    background-color: rgb(61, 3, 221);
+    border-radius: 5px;
+    color: aliceblue;
+    cursor: pointer;
+    transition: transform 1s background-color 1s;
+}
+#btnVelo {
+    background-color: rgb(61, 3, 221);
+    border-radius: 5px;
+    color: aliceblue;
+    cursor: pointer;
+    transition: transform 1s background-color 1s;
+}
+.btn:hover {
+    transform: scale(1.1);
+    background-color: blue;
+}
+.btn:hover {
+    transform: scale(1.1);
+    background-color: blue;
+}
