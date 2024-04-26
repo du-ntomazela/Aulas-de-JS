@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+.while{
+    margin: 10px;
+}
+.tabuada{
+    margin: 10px;
+}
+.divisoes{
+    margin: 10px;
+}
